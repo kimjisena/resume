@@ -94,8 +94,10 @@ March 2018 - Present
 - Built a density-based traffic control system for a local technology expo
     - Technologies: Arduino, C
 
-
-
+## Certifications
+- [Responsive Web Design](https://www.freecodecamp.org/certification/kimjisena/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/kimjisena/javascript-algorithms-and-data-structures)
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/kimjisena/front-end-development-libraries)
 
 ## Education
 **Doctor of Medicine** - Incomplete
