@@ -1,46 +1,111 @@
-# Getting Started with Create React App
+# Frontend Developer Resume
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Bio
+1. Name - Jisena, Ponsiano
 
-## Available Scripts
+2. Email - ponsianojohn99@gmail.com
 
-In the project directory, you can run:
+3. Phone Number - +255 789 723 254
 
-### `npm start`
+4. Address
+    - 41119 Dodoma CBD,
+    
+      Dodoma, Tanzania.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. Twitter - @[kimjisena](https://twitter.com/kimjisena)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+6. GitHub - @[kimjisena](https://github.com/kimjisena)
 
-### `npm test`
+7. Languages
+    - Sukuma (Native)
+    - Swahili (Native)
+    - English (Fluent)
+    - Spanish (Upper Intermediate)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Career Objectives
+Motivated self-taught frontend developer seeking to use proven skills in JavaScript to deliver high quality, working, and maintainable solutions to UI/UX challenges.
 
-### `npm run build`
+Supportive and enthusiastic team player dedicated
+to streamlining processes and efficiently resolving project issues.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Skills
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Technical Skills
+- **Programming Languages**
+    - JavaScript
+    - TypeScript
+    - HTML5
+    - CSS3
+    - Python 3
+    - C
+    - x86-64 Assembly
+- **Frameworks & Libraries**
+    - ReactJS
+    - Redux
+    - NextJS
+    - jQuery
+    - TailwindCSS
+    - Bootstrap
+- **Environments & Tools**
+    - NodeJS
+    - Bash
+    - Git
+    - GCC
+    - Yasm
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Soft Skills
+- **Self-directed learning**
+- **Time management**
+- **Organizational skills**
+- **Communication skills**
+- **Teamwork**
+- **Creative thinking**
+- **Problem solving**
 
-### `npm run eject`
+## Experience
+### Open Source Contributor
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+June 2022 - Present
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Submitted pull requests to NodeJS that assisted in improving the NodeJS documentation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Independent Programmer
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+March 2018 - Present
 
-## Learn More
+- Built a CASIO fx-991ms-themed JavaScript calculator
+    - Technologies: React, TailwindCSS, NodeJS, git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Built a drum pad machine with extensive focus on the UI
+    - Technologies: React, TailwindCSS, NodeJS, git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Built a markdown previewer
+    - Technologies: React, TailwindCSS, NodeJS, git
+
+- Built a linux terminal-themed random quote generator
+    - Technologies: HTML5, CSS3, jQuery, NodeJS, git
+
+- Implemented common data structures and algorithms in JavaScript.
+    - Technologies: JavaScript, NodeJS, git
+
+- Built a density-based traffic control system for a local technology expo
+    - Technologies: Arduino, C
+
+
+
+
+## Education
+**Doctor of Medicine** - Incomplete
+
+Nov 2019 - Oct 2021
+
+University Of Dodoma,
+
+School of Medicine and Dentistry
+
+**Relevant Courses**
+
+- Health Information Systems
+- Biostatistics
+- Communication Skills
+- Behavioral Sciences
