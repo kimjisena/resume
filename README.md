@@ -73,19 +73,22 @@ June 2022 - Present
 
 March 2018 - Present
 
-- Built a CASIO fx-991ms-themed JavaScript calculator
-    - Technologies: React, TailwindCSS, NodeJS, git
+- Built and deployed a 25 + 5 pomodoro clock
+    - Technologies: ReactJS, TailwindCSS, NodeJS, git
 
-- Built a drum pad machine with extensive focus on the UI
-    - Technologies: React, TailwindCSS, NodeJS, git
+- Built and deployed a CASIO fx-991ms-themed JavaScript calculator
+    - Technologies: ReactJS, TailwindCSS, NodeJS, git
 
-- Built a markdown previewer
-    - Technologies: React, TailwindCSS, NodeJS, git
+- Built and deployed a drum pad machine with extensive focus on the UI
+    - Technologies: ReactJS, TailwindCSS, NodeJS, git
 
-- Built a linux terminal-themed random quote generator
+- Built and deployed a markdown previewer
+    - Technologies: ReactJS, TailwindCSS, NodeJS, git
+
+- Built and deployed a linux terminal-themed random quote generator
     - Technologies: HTML5, CSS3, jQuery, NodeJS, git
 
-- Implemented common data structures and algorithms in JavaScript.
+- Implemented common data structures and algorithms in JavaScript
     - Technologies: JavaScript, NodeJS, git
 
 - Built a density-based traffic control system for a local technology expo
