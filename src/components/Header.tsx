@@ -1,10 +1,11 @@
+import { ReactElement } from "react";
 import Bio from "./header/Bio";
 import Contact from "./header/Contact";
 import Objective from "./header/Objective";
 
-export default function Header () {
+export default function Header (): ReactElement {
   return (
-    <header className={`border-2 flex flex-col justify-between items-center p-1`}>
+    <header className={`flex flex-col justify-between items-center p-4`}>
       <Bio />
       <Objective />
       <Contact />

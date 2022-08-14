@@ -1,7 +1,8 @@
+import { ReactElement } from "react";
 import Image from "./Image";
 import Title from "./Title";
 
-export default function Bio () {
+export default function Bio (): ReactElement {
   return (
     <div className={`flex flex-col justify-between items-center w-full md:flex-row`}>
       <Image />
