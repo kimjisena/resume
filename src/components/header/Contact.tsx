@@ -1,10 +1,11 @@
 import { ReactElement } from "react";
-import ContactCard, {type Props} from "./ContactCard";
+import ContactCard from "./ContactCard";
+import {IconProps} from "../types";
 import {BsGithub, BsTwitter, BsFillTelephoneFill} from "react-icons/bs";
 import {MdEmail, MdLocationPin} from "react-icons/md";
 import {FaFreeCodeCamp} from "react-icons/fa";
 
-const contactDetails: Props[] = [
+const contactDetails: IconProps[] = [
   {
     id: 'location',
     Icon: MdLocationPin,

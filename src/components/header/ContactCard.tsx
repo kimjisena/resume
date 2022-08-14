@@ -1,13 +1,7 @@
 import { ReactElement } from "react";
-import { IconType } from "react-icons";
+import { IconProps } from "../types";
 
-export type Props = {
-  id: string,
-  Icon: IconType,
-  text: string
-};
-
-export default function ContactCard ({ Icon, text, id }: Props): ReactElement {
+export default function ContactCard ({ Icon, text, id }: IconProps): ReactElement {
   let content;
   switch(id) {
     case 'tel':
@@ -32,7 +26,7 @@ export default function ContactCard ({ Icon, text, id }: Props): ReactElement {
   return (
     <li className={`flex flex-row items-center bg-light-green w-full p-2 ${id === 'email' ? 'md:mb-0' : '' }  ${id !== 'fcc' ? 'mb-1' : '' } rounded-md`}>
       <Icon className={`text-dark-blue `} size={`24px`} />
-      <p className={`text-lg text-dark-blue font-bold ml-2`}>
+      <p className={`text-lg text-dark-blue ml-2`}>
         {content}
       </p>
     </li>
