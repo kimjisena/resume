@@ -1,14 +1,12 @@
 import Image from "./Image";
 import Title from "./Title";
-import Objective from "./Objective";
 
 export default function Bio () {
   return (
     <div className={`flex flex-col justify-between items-center w-full md:flex-row`}>
       <Image />
-      <div className={`flex flex-col justify-between items-center w-full md:h-40 md:w-4/5`}>
+      <div className={`flex flex-col justify-center items-center w-full md:h-40 md:w-4/5`}>
         <Title />
-        <Objective />
       </div>
     </div>
   );
