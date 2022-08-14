@@ -1,14 +1,10 @@
-import Image from "./Image";
-import Title from "./Title";
-import Objective from "./Objective";
-import Contact from "./Contact";
+import Bio from "./header/Bio";
+import Contact from "./header/Contact";
 
 export default function Header () {
   return (
-    <header className={`border-2 flex flex-col justify-between items-center`}>
-      <Image />
-      <Title />
-      <Objective />
+    <header className={`border-2 flex flex-col justify-between items-center p-1`}>
+      <Bio />
       <Contact />
     </header>
   );
