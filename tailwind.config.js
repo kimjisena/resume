@@ -8,7 +8,7 @@ module.exports = {
       'dark-blue': '#1C3244',
       'dark-grey': '#EBEBEB',
       orange: '#F1B742',
-      'light-green': '#95DFD4',
+      'light-green': '#33E1FD', // '#95DFD4',
     },
     extend: {},
   },

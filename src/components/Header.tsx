@@ -8,6 +8,7 @@ export default function Header (): ReactElement {
     <header className={`flex flex-col justify-between items-center p-4`}>
       <Bio />
       <Objective />
+      <hr className={`border-light-green border-2 w-full`} />
       <Contact />
     </header>
   );
