@@ -23,10 +23,9 @@
     - Spanish (Upper Intermediate)
 
 ## Career Objectives
-Motivated self-taught frontend developer seeking to use proven skills in JavaScript to deliver high quality, working, and maintainable solutions to UI/UX challenges.
+Motivated self-taught frontend developer seeking to use proven skills in JavaScript to deliver high quality, working, and maintainable solutions to UI/UX challenges. Passionate about building first-class web applications.
 
-Supportive and enthusiastic team player dedicated
-to streamlining processes and efficiently resolving project issues.
+Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. Experience includes coding, troubleshooting, and testing.
 
 ## Skills
 

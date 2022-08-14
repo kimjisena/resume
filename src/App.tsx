@@ -1,9 +1,11 @@
-import React from 'react';
+import Header from './components/Header';
+import Main from './components/Main';
 
 function App() {
   return (
-    <div className="App">
-      Front End Developer Resume
+    <div className={`resume w-[90%] my-3 mx-auto md:w-4/5`}>
+      <Header />
+      <Main />
     </div>
   );
 }
