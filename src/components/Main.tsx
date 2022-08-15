@@ -7,6 +7,7 @@ import { MdSchool } from "react-icons/md";
 import Section from "./main/Section";
 import Certification from "./main/Certification";
 import Education from "./main/Education";
+import Languages from "./main/Languages";
 
 export default function Main (): ReactElement {
   return (
@@ -24,7 +25,7 @@ export default function Main (): ReactElement {
         <Education />
       </Section>
       <Section text={`Languages`} Icon={IoLanguage}>
-        <div>Languages</div>
+        <Languages />
       </Section>
     </main>
   );
