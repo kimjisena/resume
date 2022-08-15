@@ -14,7 +14,7 @@ export default function Main (): ReactElement {
   return (
     <main className={`flex flex-col justify-between my-2 px-4`}>
       <Section text={`Skills`} Icon={FaTools}>
-        <div>Skills</div>
+        <div></div>
       </Section>
 
       <Section text={`Experience`} Icon={MdWork}>

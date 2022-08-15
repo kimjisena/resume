@@ -8,7 +8,7 @@ export default function Experience (): ReactElement {
       <div>
         <h2 className={`text-2xl`}>Contibutor</h2>
         <p className={`text-lg p-2`}>June 2022 - Present</p>
-        <a href="https://github.com/kimjisena">
+        <a href="https://github.com/users/kimjisena/achievements/pull-shark">
           <p className={`flex flex-row items-center text-lg p-2`}>
             NodeJs
             <TbExternalLink className={`text-dark-blue ml-2`} size={`24px`} />
@@ -22,7 +22,7 @@ export default function Experience (): ReactElement {
       <div>
         <h2 className={`text-2xl`}>Independent Programmer</h2>
         <p className={`text-lg p-2`}>April 2021 - Present</p>
-        <a href="https://github.com/kimjisena">
+        <a href="https://github.com/kimjisena/fcc-certs">
           <p className={`flex flex-row items-center text-lg p-2`}>
             GitHub
             <TbExternalLink className={`text-dark-blue ml-2`} size={`24px`} />
@@ -34,7 +34,6 @@ export default function Experience (): ReactElement {
           <li className={`ml-2 py-2 pr-2`}>Built and deployed a drum pad machine with extensive focus on the UI</li>
           <li className={`ml-2 py-2 pr-2`}>Built and deployed a markdown previewer</li>
           <li className={`ml-2 py-2 pr-2`}>Built and deployed a linux terminal-themed random quote generator</li>
-          <li className={`ml-2 py-2 pr-2`}>Implemented common data structures and algorithms in JavaScript</li>
         </ul>
       </div>
     </div>
