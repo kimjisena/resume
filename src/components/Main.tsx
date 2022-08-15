@@ -6,6 +6,7 @@ import { TbCertificate } from "react-icons/tb";
 import { MdSchool } from "react-icons/md";
 import Section from "./main/Section";
 import Certification from "./main/Certification";
+import Education from "./main/Education";
 
 export default function Main (): ReactElement {
   return (
@@ -20,7 +21,7 @@ export default function Main (): ReactElement {
         <Certification />
       </Section>
       <Section text={`Education`} Icon={MdSchool}>
-        <div>Education</div>
+        <Education />
       </Section>
       <Section text={`Languages`} Icon={IoLanguage}>
         <div>Languages</div>
