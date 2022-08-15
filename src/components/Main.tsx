@@ -8,6 +8,7 @@ import Section from "./main/Section";
 import Certification from "./main/Certification";
 import Education from "./main/Education";
 import Languages from "./main/Languages";
+import Experience from "./main/Experience";
 
 export default function Main (): ReactElement {
   return (
@@ -15,15 +16,19 @@ export default function Main (): ReactElement {
       <Section text={`Skills`} Icon={FaTools}>
         <div>Skills</div>
       </Section>
+
       <Section text={`Experience`} Icon={MdWork}>
-        <div>Experience</div>
+        <Experience />
       </Section>
+
       <Section text={`Certification`} Icon={TbCertificate}>
         <Certification />
       </Section>
+
       <Section text={`Education`} Icon={MdSchool}>
         <Education />
       </Section>
+      
       <Section text={`Languages`} Icon={IoLanguage}>
         <Languages />
       </Section>
