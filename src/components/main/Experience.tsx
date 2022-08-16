@@ -6,7 +6,7 @@ export default function Experience (): ReactElement {
   return (
     <div className={`p-2 text-dark-blue`}>
       <div>
-        <h2 className={`text-2xl`}>Contibutor</h2>
+        <h2 className={`text-2xl`}>Open Source Contibutor</h2>
         <p className={`text-lg p-2`}>June 2022 - Present</p>
         <a href="https://github.com/users/kimjisena/achievements/pull-shark">
           <p className={`flex flex-row items-center text-lg p-2`}>
