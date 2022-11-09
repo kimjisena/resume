@@ -8,6 +8,17 @@ export default function Experience (): ReactElement {
       <div>
         <h2 className={`text-2xl`}>Open Source Contibutor</h2>
         <p className={`text-lg p-2`}>June 2022 - Present</p>
+        <a href="https://github.com/daniel-hauser/react-organizational-chart">
+          <p className={`flex flex-row items-center text-lg p-2`}>
+            React Organizational Chart
+            <TbExternalLink className={`text-dark-blue ml-2`} size={`24px`} />
+          </p>
+        </a>
+        <ul className={`list-disc list-outside text-lg pl-8`}>
+          <li className={`ml-2 py-2 pr-2`}>Opened an issue related to server-side rendering.</li>
+          <li className={`ml-2 py-2 pr-2`}>Submitted pull requests that assisted in improving the <code className="font-[monospace]">react-organizational-chart</code> documentation</li>
+        </ul>
+
         <a href="https://github.com/users/kimjisena/achievements/pull-shark">
           <p className={`flex flex-row items-center text-lg p-2`}>
             NodeJs

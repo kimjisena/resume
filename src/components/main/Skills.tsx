@@ -14,7 +14,7 @@ export default function Skills (): ReactElement {
             <li className={`ml-2 py-2 pr-2`}>TypeScript</li>
             <li className={`ml-2 py-2 pr-2`}>HTML5</li>
             <li className={`ml-2 py-2 pr-2`}>CSS3</li>
-            <li className={`ml-2 py-2 pr-2`}>Python 3</li>
+            <li className={`ml-2 py-2 pr-2`}>Python</li>
           </ul>
         </div>
 
