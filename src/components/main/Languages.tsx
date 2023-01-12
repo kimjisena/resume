@@ -14,7 +14,7 @@ export default function Languages (): ReactElement {
       </li>
       <li className={`flex flex-row items-center text-lg p-2`}>
         <p className={`w-[30%] md:w-1/5`}>English</p>
-        <LanguageLevel level={3} />
+        <LanguageLevel level={4} />
       </li>
       <li className={`flex flex-row items-center text-lg p-2`}>
         <p className={`w-[30%] md:w-1/5`}>Spanish</p>

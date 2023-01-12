@@ -6,6 +6,23 @@ export default function Experience (): ReactElement {
   return (
     <div className={`p-2 text-dark-blue`}>
       <div>
+        <h2 className={`text-2xl`}>Software Developer - Intern</h2>
+        <p className={`text-lg p-2`}>November 2022 - Present</p>
+        <a href="https://www.dtcl.co.tz/index">
+          <p className={`flex flex-row items-center text-lg p-2`}>
+            DTCL
+            <TbExternalLink className={`text-dark-blue ml-2`} size={`24px`} />
+          </p>
+        </a>
+        <ul className={`list-disc list-outside text-lg pl-8`}>
+          <li className={`ml-2 py-2 pr-2`}>
+            Pushed for a paradigm shift in app development, from Laravel-only apps to Laravel-Inertia-React apps, for both internal 
+            and client projects. This improved user experience and client satisfaction by 60%.
+          </li>
+        </ul>
+      </div>
+
+      <div>
         <h2 className={`text-2xl`}>Open Source Contibutor</h2>
         <p className={`text-lg p-2`}>June 2022 - Present</p>
         <a href="https://github.com/daniel-hauser/react-organizational-chart">
@@ -32,7 +49,7 @@ export default function Experience (): ReactElement {
 
       <div>
         <h2 className={`text-2xl`}>Independent Programmer</h2>
-        <p className={`text-lg p-2`}>April 2021 - Present</p>
+        <p className={`text-lg p-2`}>April 2021 - May 2022</p>
         <a href="https://github.com/kimjisena/fcc-certs">
           <p className={`flex flex-row items-center text-lg p-2`}>
             GitHub

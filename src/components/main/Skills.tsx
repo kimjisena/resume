@@ -12,9 +12,8 @@ export default function Skills (): ReactElement {
           <ul className={`list-disc list-outside text-lg pl-4`}>
             <li className={`ml-2 py-2 pr-2`}>JavaScript</li>
             <li className={`ml-2 py-2 pr-2`}>TypeScript</li>
-            <li className={`ml-2 py-2 pr-2`}>HTML5</li>
-            <li className={`ml-2 py-2 pr-2`}>CSS3</li>
             <li className={`ml-2 py-2 pr-2`}>Python</li>
+            <li className={`ml-2 py-2 pr-2`}>PHP</li>
           </ul>
         </div>
 
@@ -22,11 +21,9 @@ export default function Skills (): ReactElement {
           <h3 className={`text-xl p-2 font-bold`}>Libaries and Frameworks</h3>
           <ul className={`list-disc list-outside text-lg pl-4`}>
             <li className={`ml-2 py-2 pr-2`}>ReactJS</li>
-            <li className={`ml-2 py-2 pr-2`}>Redux</li>
             <li className={`ml-2 py-2 pr-2`}>NextJS</li>
-            <li className={`ml-2 py-2 pr-2`}>jQuery</li>
-            <li className={`ml-2 py-2 pr-2`}>TailwindCSS</li>
-            <li className={`ml-2 py-2 pr-2`}>Bootstrap</li>
+            <li className={`ml-2 py-2 pr-2`}>Laravel</li>
+            <li className={`ml-2 py-2 pr-2`}>Tailwind CSS</li>
           </ul>
         </div>
 
