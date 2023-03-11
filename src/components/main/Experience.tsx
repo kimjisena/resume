@@ -16,7 +16,7 @@ export default function Experience (): ReactElement {
         </a>
         <ul className={`list-disc list-outside text-lg pl-8`}>
           <li className={`ml-2 py-2 pr-2`}>
-            Helped set up a development server that eased mainatanance pain by 75%
+            Helped set up a development server that eased mainenance pain by 75%
           </li>
         </ul>
       </div>
