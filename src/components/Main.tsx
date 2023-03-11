@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { IoLanguage } from "react-icons/io5";
 import { FaTools } from "react-icons/fa";
 import { MdWork, MdSchool } from "react-icons/md";

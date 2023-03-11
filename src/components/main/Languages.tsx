@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import LanguageLevel from "./LanguageLevel";
 
 export default function Languages (): ReactElement {

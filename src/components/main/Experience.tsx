@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { TbExternalLink } from "react-icons/tb";
 
 
@@ -6,8 +6,24 @@ export default function Experience (): ReactElement {
   return (
     <div className={`p-2 text-dark-blue`}>
       <div>
+        <h2 className={`text-2xl`}>Software Developer</h2>
+        <p className={`text-lg p-2`}>March 2023 - Present</p>
+        <a href="https://tunzaa.co.tz/about">
+          <p className={`flex flex-row items-center text-lg p-2`}>
+            Tunzaa
+            <TbExternalLink className={`text-dark-blue ml-2`} size={`24px`} />
+          </p>
+        </a>
+        <ul className={`list-disc list-outside text-lg pl-8`}>
+          <li className={`ml-2 py-2 pr-2`}>
+            Helped set up a development server that eased mainatanance pain by 75%
+          </li>
+        </ul>
+      </div>
+
+      <div>
         <h2 className={`text-2xl`}>Software Developer - Intern</h2>
-        <p className={`text-lg p-2`}>November 2022 - Present</p>
+        <p className={`text-lg p-2`}>November 2022 - March 2023</p>
         <a href="https://www.dtcl.co.tz/index">
           <p className={`flex flex-row items-center text-lg p-2`}>
             DTCL

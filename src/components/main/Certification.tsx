@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { TbExternalLink } from "react-icons/tb";
 
 export default function Certification (): ReactElement {

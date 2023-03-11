@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import ContactCard from "./ContactCard";
 import {IconProps} from "../types";
 import {BsGithub, BsTwitter, BsFillTelephoneFill} from "react-icons/bs";
@@ -9,7 +9,7 @@ const contactDetails: IconProps[] = [
   {
     id: 'location',
     Icon: MdLocationPin,
-    text: '41119 Dodoma, Tanzania',
+    text: '17108 Dar es Salaam, Tanzania',
   },
   {
     id: 'tel',

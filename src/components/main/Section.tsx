@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import SectionHeader from './SectionHeader';
 import { IconProps, Children } from "../types";
 

@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { IconProps } from "../types";
 
 export default function SectionHeader ({ Icon, text }: IconProps): ReactElement {

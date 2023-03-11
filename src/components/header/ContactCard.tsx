@@ -1,4 +1,4 @@
-import { ReactElement } from "react";
+import React, { ReactElement } from "react";
 import { IconProps } from "../types";
 
 export default function ContactCard ({ Icon, text, id }: IconProps): ReactElement {

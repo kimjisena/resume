@@ -1,4 +1,4 @@
-import { ReactElement } from 'react';
+import React, { ReactElement } from 'react';
 import pfp from '../../images/kim.jpg';
 
 export default function Image (): ReactElement {
